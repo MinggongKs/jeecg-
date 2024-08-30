@@ -29,6 +29,12 @@ jeecg-boot-任意文件下载漏洞
 
 jeecg-boot-jeecgFormDemoController漏洞
 
+jeecg-boot-v2 P3 Biz Chat任意文件读取漏洞
+
+jeecg-boot-v2 sys/duplicate/check注入漏洞
+
+jeecg-boot-v2 AviatorScript表达式注入漏洞
+
 # 功能介绍
 
 Jeecg综合漏洞利用工具集成了多模块漏洞利用，包括一键漏洞检测，单独选择模块检测,cmdshell模块，文件上传模块，批量检测模块等
