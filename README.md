@@ -242,6 +242,7 @@ JeecgBoot综合漏洞利用工具v4.2版
 合并了/jeecgboot 和/的漏洞检测
 
 poc1是基于jeecgboot目录的检测
+
 poc2是基于/目录的检测
 
 ![image](https://github.com/MInggongK/jeecg-/blob/main/jeecgExploitss/sd.png)
