@@ -228,13 +228,21 @@ jeecg-boot queryFieldBySql远程命令执行漏洞优化
 # 更新日志
 
 JeecgBoot综合漏洞利用工具v4.2版
+
 更新内容：
+
 取消了正则抓取接口
+
 合并了/jeecgboot 和/的漏洞检测
+
 新增了
+
 jeecg-boot-v2 P3 Biz Chat任意文件读取漏洞
+
 jeecg-boot-v2 sys/duplicate/check注入漏洞
+
 jeecg-boot-v2 AviatorScript表达式注入漏洞
+
 新增了自定义header头测试
 
 JeecgBoot综合漏洞利用工具v4.0版
