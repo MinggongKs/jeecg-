@@ -241,6 +241,8 @@ JeecgBoot综合漏洞利用工具v4.2版
 
 合并了/jeecgboot 和/的漏洞检测
 
+![image](https://github.com/MInggongK/jeecg-/blob/main/jeecgExploitss/sd.png)
+
 新增了
 
 jeecg-boot-v2 P3 Biz Chat任意文件读取漏洞
